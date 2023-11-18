@@ -10,7 +10,8 @@ Responsive design utilizing Tailwind CSS utility classes
 Clean and minimalist UI
 Easy-to-understand HTML structure
 Easily customizable for further modifications or additions
-Preview
+
+## Preview
 
 ![image](https://github.com/noobcoder007-exe/Tailwind-LandingPage/assets/117106015/4a3f773c-211e-4d0a-b771-b3693d891d10)
 
